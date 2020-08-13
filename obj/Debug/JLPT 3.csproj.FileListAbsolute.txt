@@ -1,0 +1,2 @@
+C:\Users\yudhi\source\repos\JLPT 3\JLPT 3\obj\Debug\JLPT 3.csprojAssemblyReference.cache
+C:\Users\yudhi\source\repos\JLPT 3\JLPT 3\obj\Debug\JLPT 3.csproj.CoreCompileInputs.cache
